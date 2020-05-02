@@ -1,0 +1,28 @@
+.app {
+  height: 57.5em;
+  background-color: rgb(179, 218, 218);
+}
+
+.button1 {
+  position: fixed;
+  bottom: 6.27em;
+  width: 12.54em;
+  height: 35px;
+  margin-left: 25%;
+  background-color: rgb(5, 54, 54);
+  color: rgb(255, 249, 249);
+  font: solid;
+  font-family: Impact, "Haettenschweiler", "Arial Narrow Bold", sans-serif;
+}
+
+.button2 {
+  position: fixed;
+  bottom: 6.27em;
+  width: 12.54em;
+  height: 35px;
+  margin-left: 65%;
+  background-color: rgb(5, 54, 54);
+  color: rgb(255, 249, 249);
+  font: solid;
+  font-family: Impact, "Haettenschweiler", "Arial Narrow Bold", sans-serif;
+}
